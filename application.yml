@@ -11,3 +11,6 @@ eureka:
 spring:
   zipkin:
     base-url: http://localhost:9411/
+
+welcome:
+  message: this is comming from config server git repo configured in remote repository
